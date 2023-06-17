@@ -29,14 +29,6 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 ## 🌠 Hobby Store 주요 기능 보기
-### 🔸회원 페이지 `김소희`
-<img width="713" alt="image" src="https://user-images.githubusercontent.com/63274664/234859885-c816fa96-bd1f-4517-a757-7c08c3e9c839.png">
-<img width="639" alt="image" src="https://user-images.githubusercontent.com/63274664/234859951-0ad0bf76-91ab-4d7a-a399-03c5f3c9f380.png">
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/63274664/234860013-0125504e-13e3-4e1b-909b-b333bbd7ecd2.png">
-
-### 🔸채팅 페이지 `김소희`
-<img width="638" alt="image" src="https://user-images.githubusercontent.com/63274664/234860142-edf09d92-5bf9-4891-b6d8-82cd267b1e66.png">
-<img width="636" alt="image" src="https://user-images.githubusercontent.com/63274664/234860215-f5846e31-1daf-48c9-a34f-08ea733b0817.png">
 
 ##  📒 KPT 회고 (Keep, Problem, Try)
 ### 👍 Keep :  현재 만족하고 이어갔으면 하는 부분
