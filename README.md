@@ -8,7 +8,7 @@
   - [프로젝트 개요](#프로젝트-개요)
     - [개발 기간 및 역할 분담](#기능)
     - [기술 스택](#%EF%B8%8F-기술-스택)
-  - [프로젝트 파일 구조](#프로젝트-파일-구조)
+  - [프로젝트 파일 구조](#-프로젝트-파일-구조)
   - [KPT 회고 (Keep, Problem, Try)](#-kpt-회고-keep-problem-try)
     - [Keep :  현재 만족하고 이어갔으면 하는 부분](#-keep---현재-만족하고-이어갔으면-하는-부분)
     - [Problem : 문제점](#problem--문제점)
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/erd cloud-EA4AAA?style=for-the-badge&logo=erd cloud&logoColor=white"> <img src="https://img.shields.io/badge/jsp-8BC0D0?style=for-the-badge&logo=jsp&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-## 🌠 Hobby Store 주요 기능 보기
+## 🌠 프로젝트 파일 구조 
 
 ##  📒 KPT 회고 (Keep, Problem, Try)
 ### 👍 Keep :  현재 만족하고 이어갔으면 하는 부분
