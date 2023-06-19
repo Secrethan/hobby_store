@@ -15,7 +15,7 @@
     - [Try : 고쳐야 할 것 + 시도해야 할 것 ](#try--고쳐야-할-것--시도해야-할-것)
   
   - [산출물](#산출물)
-  - [결과물](#결과물)
+
 
 ## 📚프로젝트 개요
 클래스,스토어,공간대여를 한 곳에 구현한 공방 사이트 입니다.
@@ -73,11 +73,26 @@
 
 
 ## 산출물
-- [프로젝트 세부 사항](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2)
-- [회의록](https://www.notion.so/b25f6088573a415196a527ead0ce2666?v=599074e5f0594489b50789585f678fb2)<br>
+- ### 기획
+  - [회의록](https://www.notion.so/b25f6088573a415196a527ead0ce2666?v=599074e5f0594489b50789585f678fb2)
+  - [요구사항 명세서](https://www.notion.so/61497ea809d14e5bbf8e4a8dc63a6032?v=1aa1a6ea85e64123a211087217b57538)
+  - [컴포넌트 구조](https://www.notion.so/d0291cfbb16840e9a726026a2449eb2b)
+  - [목업 디자인](https://www.figma.com/file/IqWjrwMsMiEPuvnV7rrtky/final-project-(Notion)?type=design&node-id=0-1&t=BNJWAl8XcfSnEo4S-0)
 
-## 결과물
-- [발표 자료](https://www.notion.so/PPT-41cec578403e486196d5b19bea84b056)
+- ### 설계
+   - [ERD](https://www.erdcloud.com/d/8rvkwFF3KFDxeLtxB)
+   - [Tool & Tech Stack](https://www.notion.so/Tool-Tech-Stack-a31ece6028e6491ca53633b5b2d09f27)
+
+- ### 개발
+  - [API](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2)
+  - [DTO](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2)
+- ### 산출물
+  - [발표자료](https://www.notion.so/PPT-41cec578403e486196d5b19bea84b056) 
+
+
+
+
+
 
  
 
