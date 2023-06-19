@@ -12,13 +12,13 @@
 
 |작업자|작업 내용|
 |------|---|
-|[조장]김소희(https://github.com/Dori-github)|회원(회원가입,로그인,로그아웃,아이디찾기,비밀번호찾기), 채팅(채팅목록,채팅방생성,채팅방) |
-|박혜선(https://github.com/phseon)|장바구니,구매하기,포인트관리 |
-|김나영|이벤트,마이페이지 |
-|이승준 |공지사항|
-|조정임|클래스(전체,공예,쿠킹,디자인,운동,뷰티,기타),수강후기,좋아요,별점|
-|한이랑|장소대여(전체,촬영 스튜디오,댄스공간, 체육시설, 공연장, 그외), 수강후기, 좋아요, 별점|
-|김일한|스토어(전체,지갑,향수,휴대폰케이스,그외), 수강후기, 좋아요, 별점|
+|[조장][김소희](https://github.com/Dori-github)|회원(회원가입,로그인,로그아웃,아이디찾기,비밀번호찾기), 채팅(채팅목록,채팅방생성,채팅방) |
+|[박혜선](https://github.com/phseon)|장바구니,구매하기,포인트관리 |
+|[김나영](https://github.com/ch00)|이벤트,마이페이지 |
+|[이승준](https://github.com/2seungjun97) |공지사항|
+|[조정임](https://github.com/cjoungi)|클래스(전체,공예,쿠킹,디자인,운동,뷰티,기타),수강후기,좋아요,별점|
+|[한이랑](https://github.com/HanIRang)|장소대여(전체,촬영 스튜디오,댄스공간, 체육시설, 공연장, 그외), 수강후기, 좋아요, 별점|
+|[김일한](https://github.com/Secrethan)|스토어(전체,지갑,향수,휴대폰케이스,그외), 수강후기, 좋아요, 별점|
 
 ## 🛠️ 기술 스택
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
