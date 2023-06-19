@@ -73,6 +73,7 @@
 
 
 ## 산출물
+- ### [취미 상점 : Notion](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2) 
 - ### 기획
   - [회의록](https://www.notion.so/b25f6088573a415196a527ead0ce2666?v=599074e5f0594489b50789585f678fb2)
   - [요구사항 명세서](https://www.notion.so/61497ea809d14e5bbf8e4a8dc63a6032?v=1aa1a6ea85e64123a211087217b57538)
