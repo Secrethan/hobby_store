@@ -22,7 +22,7 @@
 
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/63274664/234852188-4277c9fe-8e15-40ba-b7b3-d75fa4dc588d.png">
 
-## 📅개발 기간  (2022.2.06 ~ 2023.3.13)
+## 📅개발 기간  (2023.2.06 ~ 2023.3.13)
 ## 🐣팀원 및 역할 분담
 ### 기능
 
