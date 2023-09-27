@@ -85,7 +85,6 @@
    - [Tool & Tech Stack](https://www.notion.so/Tool-Tech-Stack-a31ece6028e6491ca53633b5b2d09f27)
 
 - ### 개발
-  - [API](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2)
   - [DTO](https://www.notion.so/21c2e241ddab447fb29b69f2087a53f2)
 - ### 산출물
   - [발표자료](https://www.notion.so/PPT-41cec578403e486196d5b19bea84b056) 
